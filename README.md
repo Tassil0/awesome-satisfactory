@@ -24,7 +24,7 @@ Satisfactory is a first-person factory building game with a dash of exploration 
 - [Official Wiki](https://satisfactory.wiki.gg/) - Community-maintained official wiki
 - [Official Discord](https://discord.gg/satisfactory) - Join the official Discord community
 - [Satisfactory Reddit](https://www.reddit.com/r/SatisfactoryGame/) - Official subreddit
-- [Coffee Stain Studios](https://www.coffeestain.com/) - The game developer
+- [Coffee Stain Studios](https://www.coffeestainstudios.com/) - The game developer
 
 ## Tools & Calculators
 
@@ -33,7 +33,6 @@ Satisfactory is a first-person factory building game with a dash of exploration 
 - [SCIM (Satisfactory Calculator Interactive Map)](https://github.com/moritz/satisfactory-calculator) - Interactive map with resource locations
 - [Satisfactory Planner](https://satisfactory-planner.com/) - Factory planning tool
 - [Efficiency Checker](https://satisfactory-efficiency.netlify.app/) - Check your factory efficiency
-- [Power Calculator](https://satisfactory.fandom.com/wiki/Power#Power_Calculator) - Calculate power requirements
 - [Recipe Calculator](https://daniel2013.github.io/satisfactory/) - Calculate recipes and ratios
 - [Omega Tools](https://rblom9517.github.io/satisfactory-omega/) - Advanced production calculator
 
@@ -81,7 +80,6 @@ Satisfactory is a first-person factory building game with a dash of exploration 
 
 ### Twitch Streamers
 - [Coffee Stain Studios](https://www.twitch.tv/coffeestainstudiosdevs) - Official developer streams
-- Various community streamers
 
 ## Blueprints & Designs
 
@@ -98,14 +96,6 @@ Satisfactory is a first-person factory building game with a dash of exploration 
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-- Make sure your entry follows the format: `[Name](link) - Description`
-- Check your spelling and grammar
-- Make sure your text editor is set to remove trailing whitespace
-- Add one link per pull request
-- Keep descriptions concise and clear
-- Add a link to the end of the appropriate category
-- New categories or improvements to existing categorization are welcome
 
 ## License
 
