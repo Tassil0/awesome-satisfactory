@@ -24,7 +24,7 @@ Satisfactory is a first-person factory building game with a dash of exploration 
 - [Official Wiki](https://satisfactory.wiki.gg/) - Community-maintained official wiki
 - [Official Discord](https://discord.gg/satisfactory) - Join the official Discord community
 - [Satisfactory Reddit](https://www.reddit.com/r/SatisfactoryGame/) - Official subreddit
-- [Coffee Stain Studios](https://www.coffeestudios.com/) - The game developer
+- [Coffee Stain Studios](https://www.coffeestain.com/) - The game developer
 
 ## Tools & Calculators
 
@@ -87,7 +87,6 @@ Satisfactory is a first-person factory building game with a dash of exploration 
 
 - [Satisfactory Blueprint Designer](https://satisfactory-blueprints.com/) - Share and download blueprints
 - [Factory Designs Subreddit](https://www.reddit.com/r/SatisfactoryGame/search?q=flair%3ABlueprint) - Community-shared designs
-- [Steam Workshop](https://steamcommunity.com/app/526870/workshop/) - Blueprint sharing (if available)
 
 ## Related Projects
 
